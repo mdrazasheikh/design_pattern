@@ -1,2 +1,4 @@
 # design_pattern
-Reference: [Document Reference](https://sourcemaking.com/design_patterns/) for explanation and code snippets
+Reference: 
+* [Source 1](https://sourcemaking.com/design_patterns/)
+* [Source 2](https://refactoring.guru/design-patterns)
